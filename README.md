@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siyo
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning actuarial sciences
+- I am looking at improving my automation, app building and integration skills for cloud services
 - 💞️ I’m looking to collaborate on JavaScripts
 - 📫 How to reach me on IG @siyolisembaxa03
 - 😄 Pronouns: she/her
